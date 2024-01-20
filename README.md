@@ -1,4 +1,3 @@
 # code-one
 
-mag ky kartos
-
+havent recieveed paper 1:30
