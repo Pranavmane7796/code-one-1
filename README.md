@@ -28,3 +28,16 @@ allows user to select base pack from combo box it should allow selection for the
 disco hindi or classical magic 
 western goodies
 after selection of the base pack the data should be updated in the table for the customer
+
+
+home page 
+
+
+                 ABC cable service 
+                 customer report 
+                 manage customer 
+                 *table*
+                 _____________________________________________________
+                 | customer no | base pack | optional pack     |
+                 | c001        | disco hindi| comedy           |
+                 
