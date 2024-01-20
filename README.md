@@ -1,3 +1,3 @@
 # code-one
 
-havent recieveed paper 1:30
+just recieved the paper typing...
