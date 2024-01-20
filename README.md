@@ -1,5 +1,5 @@
 # code-one
-pruthvi call him
+scroll down to see image of table
 
 
 question:
